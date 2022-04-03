@@ -2037,7 +2037,7 @@
         },
         "building": [6, 19],
         "additional": {
-            "qualification": [Dienstgruppenleitung]
+            "qualification": ["Dienstgruppenleitung"]
             "prisoners_transport": 1
         },
         "prerequisites": {
