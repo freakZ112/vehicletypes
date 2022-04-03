@@ -2023,5 +2023,24 @@
         "prerequisites": {
             "thw": 1
         }
-    }
+    },
+     {
+        "id": 103,
+        "name": "Funkstreifenwagen (Dienstgruppenleitung)",
+        "short_name": "FuStW (DGL)",
+        "class": ["police_cars"],
+        "class_alias": ["Polizeistreifen"],
+        "cost": 25000,
+        "personal": {
+            "min": 1,
+            "max": 2
+        },
+        "building": [6, 19],
+        "additional": {
+            "qualification": [Dienstgruppenleitung]
+            "prisoners_transport": 1
+        },
+        "prerequisites": {
+            "police_stations": 1
+        }
 ]
