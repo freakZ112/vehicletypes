@@ -2024,9 +2024,9 @@
             "thw": 1
         }
     },
-     {
+	    {
         "id": 103,
-        "name": "Funkstreifenwagen (Dienstgruppenleitung)",
+        "name": "Funkstreifenwagen (Dienstgruppenleitung",
         "short_name": "FuStW (DGL)",
         "class": ["police_cars"],
         "class_alias": ["Polizeistreifen"],
@@ -2037,7 +2037,7 @@
         },
         "building": [6, 19],
         "additional": {
-            "qualification": ["Dienstgruppenleitung"]
+            "qualification": ["Dienstgruppenleiter"],
             "prisoners_transport": 1
         },
         "prerequisites": {
