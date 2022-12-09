@@ -74,8 +74,8 @@
     },
     {
         "id": 4,
-        "name": "Noppi-Mobil",
-        "short_name": "RW",
+        "name": "Rüstwagen",
+        "short_name": "Noppimobil",
         "class": ["heavy_rescue_vehicles"],
         "class_alias": ["Rüstwagen"],
         "cost": 12180,
