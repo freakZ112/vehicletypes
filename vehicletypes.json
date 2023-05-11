@@ -2165,9 +2165,9 @@
  	{
 		"id": 110,
 		"name": "Netzersatzanlage 50 kVA",
-		"short_name": "NEA50 THW",
+		"short_name": "NEA50-THW",
 		"class": ["thw_mzkw"],
-		"class_alias": ["NEA50"],
+		"class_alias": ["NEA50-THW"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
@@ -2182,9 +2182,9 @@
   	{
 		"id": 111,
 		"name": "Netzersatzanlage 50 kVA",
-		"short_name": "NEA50 FW",
+		"short_name": "NEA50-FW",
 		"class": ["thw_mzkw"],
-		"class_alias": ["NEA50"],
+		"class_alias": ["NEA50-FW"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
@@ -2199,9 +2199,9 @@
   	{
 		"id": 112,
 		"name": "Netzersatzanlage 200 kVA",
-		"short_name": "NEA200 THW",
+		"short_name": "NEA200-THW",
 		"class": ["thw_mzkw"],
-		"class_alias": ["NEA200"],
+		"class_alias": ["NEA200-THW"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
@@ -2216,9 +2216,9 @@
    	{
 		"id": 113,
 		"name": "Netzersatzanlage 200 kVA",
-		"short_name": "NEA200 FW",
+		"short_name": "NEA200-FW",
 		"class": ["thw_mzkw"],
-		"class_alias": ["NEA200"],
+		"class_alias": ["NEA200-FW"],
 		"cost": 10000,
 		"personal": {
 			"min": 0,
