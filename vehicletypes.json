@@ -792,10 +792,10 @@
 	},
 	{
 		"id": 41,
-		"name": "Mehrzweckkraftwagen",
-		"short_name": "MzKW",
+		"name": "Mehrzweckgerätewagen Notinstandsetzung",
+		"short_name": "MzGW (FGr N)",
 		"class": ["thw_mzkw"],
-		"class_alias": ["MzKW"],
+		"class_alias": ["MzGW (FGr N)"],
 		"cost": 15000,
 		"personal": {
 			"min": 1,
@@ -2143,6 +2143,91 @@
 		},
 		"prerequisites": {
 			"fire_stations": 1
+		}
+	},
+ 	{
+		"id": 109,
+		"name": "Mehrzweckgerätewagen Schwere Bergung",
+		"short_name": "MzGW SB",
+		"class": ["thw_mzkw"],
+		"class_alias": ["MzGW SB"],
+		"cost": 15000,
+		"personal": {
+			"min": 1,
+			"max": 9
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	},
+ 	{
+		"id": 110,
+		"name": "Netzersatzanlage 50 kVA",
+		"short_name": "NEA50",
+		"class": ["thw_mzkw"],
+		"class_alias": ["NEA50"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	},
+  	{
+		"id": 111,
+		"name": "Netzersatzanlage 50 kVA",
+		"short_name": "NEA50",
+		"class": ["thw_mzkw"],
+		"class_alias": ["NEA50"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	},
+  	{
+		"id": 112,
+		"name": "Netzersatzanlage 200 kVA",
+		"short_name": "NEA200",
+		"class": ["thw_mzkw"],
+		"class_alias": ["NEA200"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
+		}
+	},
+   	{
+		"id": 113,
+		"name": "Netzersatzanlage 200 kVA",
+		"short_name": "NEA200",
+		"class": ["thw_mzkw"],
+		"class_alias": ["NEA200"],
+		"cost": 10000,
+		"personal": {
+			"min": 0,
+			"max": 0
+		},
+		"building": [9],
+		"additional": {},
+		"prerequisites": {
+			"thw": 1
 		}
 	}
 ]
